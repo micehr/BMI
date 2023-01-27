@@ -43,28 +43,28 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="1dp"
-        android:text="Under 18,5 --> Underweight"
+        android:text="Under 18.5 --> Underweight"
         android:textAlignment="center" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="1dp"
-        android:text="Between 18,5  24,9 --> Normal"
+        android:text="Between 18.5 and 24.9 --> Normal"
         android:textAlignment="center" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="1dp"
-        android:text="Between 25,0  29,9 --> Overweight"
+        android:text="Between 25.0 and 29.9 --> Overweight"
         android:textAlignment="center" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="1dp"
-        android:text="Between 30,0  39,9 --> Obese"
+        android:text="Between 30.0 and 39.9 --> Obese"
         android:textAlignment="center" />
 
     <TextView
